@@ -1,0 +1,58 @@
+
+with open('maze_map9.txt', 'w') as outfile:
+    outfile.write('0\n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n')
+    outfile.write('x S        xxx   x            x\n')
+    outfile.write('x xx xxxx      x x  xxxxxxxx  x\n')
+    outfile.write('x x   x xxxxxxxx    x   x  x  x\n')
+    outfile.write('x xxx x        xxxxxx  xx  x  x\n')
+    outfile.write('x       xxxxx  xT   x  x      x\n')
+    outfile.write('x xxxxxxx  x   x    x  x   xxxx\n')
+    outfile.write('x x        x        x  xx  x  x\n')
+    outfile.write('x x  xxxx  xxxxxxxxxx   x  x  x\n')
+    outfile.write('x x   Tx       x x x  x    x  x\n')
+    outfile.write('xxxxxxxx    x  x      x x  x  x\n')
+    outfile.write('x      x    x  x xxx  x x  x  x\n')
+    outfile.write('xxx         x  xxx      xxxx  x\n')
+    outfile.write('x   x       x        xx        \n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+
+
+with open('maze_map10.txt', 'w') as outfile:
+    outfile.write('0\n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n')
+    outfile.write('x S        xxx   x            x\n')
+    outfile.write('x xx xxxx      x x  xxxxxxxx  x\n')
+    outfile.write('x x   x xxxxxxxx    x   x  x  x\n')
+    outfile.write('x xxx x x      x xxxx  xx  x  x\n')
+    outfile.write('x       x xxx  x    x  x      x\n')
+    outfile.write('x xxxxxxx  x   x    x  x   xxxx\n')
+    outfile.write('x x        x        x  xx  x  x\n')
+    outfile.write('x x        xxxxxxxxxx   x  x  x\n')
+    outfile.write('x x            x x x  x    x  x\n')
+    outfile.write('xxxxxxxx    x  x      x x  x  x\n')
+    outfile.write('x      x    x  x xxx  x x  x  x\n')
+    outfile.write('xxx         x  xxx      xxxx  x\n')
+    outfile.write('x   x       x        xx        \n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+
+
+
+with open('maze_map11.txt', 'w') as outfile:
+    outfile.write('0\n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n')
+    outfile.write('x S                        x  x\n')
+    outfile.write('x xxxxxxxxxxxxxxxxxxxxxxxxxx  x\n')
+    outfile.write('x x                           x\n')
+    outfile.write('x x xxxxxxxxxxxxxxxxxxxxxxxx  x\n')
+    outfile.write('x x x                Tx    x  x\n')
+    outfile.write('x x x xxxxxxxxxxxxxxxxx x  x  x\n')
+    outfile.write('x x x                   x  x  x\n')
+    outfile.write('x x xxxxxxxxxxxxxxxxxxxxx  x  x\n')
+    outfile.write('x x                        x  x\n')
+    outfile.write('x xxxxxxxxxxxxxxxxxxxxxxxxxx  x\n')
+    outfile.write('x                             x\n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n')
+    outfile.write('xT                             \n')
+    outfile.write('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+
